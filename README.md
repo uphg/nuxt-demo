@@ -1,6 +1,6 @@
-# nuxt-demo
+# Nuxt.js 使用案例
 
-## Build Setup
+## 构建命令
 
 ```bash
 # install dependencies
@@ -17,4 +17,6 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## 部署说明
+
+如果需要部署到服务器，需要将本地的 `.nuxt`、`static`、`package.json`、`nuxt.config.js` 这几个文件存放到服务器中（详情参考 server 分支）
